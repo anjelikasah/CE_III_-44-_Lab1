@@ -1,2 +1,7 @@
 real tesing
+<<<<<<< HEAD
 by master
+=======
+
+by testing
+>>>>>>> testing
