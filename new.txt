@@ -1,3 +1,7 @@
 new file
+<<<<<<< HEAD
 by master
 by new
+=======
+by new
+>>>>>>> new
