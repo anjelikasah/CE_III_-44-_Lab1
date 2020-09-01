@@ -1,2 +1,6 @@
 try file
+<<<<<<< HEAD
 now by local
+=======
+remote changes
+>>>>>>> 1432b26... remote changes try.txt
