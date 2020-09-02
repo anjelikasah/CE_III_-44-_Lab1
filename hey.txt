@@ -1,10 +1,5 @@
 hey hey
 hey2
 hey3
-<<<<<<< HEAD
 hey4
 no?
-=======
-by testing
-hey4
->>>>>>> testing
