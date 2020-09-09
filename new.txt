@@ -1,3 +1,5 @@
+how are you?
+
 new file
 <<<<<<< HEAD
 by master
