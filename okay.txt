@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-by master
-sdfs
-=======
-sdfs
-and by okay
->>>>>>> okay
-hey testing
